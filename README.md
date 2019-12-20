@@ -27,4 +27,4 @@ These resources may be helpful as you prepare for your first articles...
   3. **Video**: [How to Write a Technical Blog Post](https://www.youtube.com/watch?v=YODPgBadj80) - by Quincy Larsen of [freeCodeCamp](https://www.freecodecamp.org/)
 
 #### Due Date
-- Next Due Date: **Tuesday, November 12 at 9AM**
+- Next Due Date: **Monday, January 6 at 9AM**
