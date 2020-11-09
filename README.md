@@ -25,6 +25,3 @@ These resources may be helpful as you prepare for your first articles...
   1. **Article**: [On Writing a Technical Article](https://medium.com/@fionnachan/on-writing-a-technical-article-4ab83e774fb8)
   2. **Article**: [How to Write a Good Coding Article](https://zellwk.com/blog/writing-good-coding-articles/)
   3. **Video**: [How to Write a Technical Blog Post](https://www.youtube.com/watch?v=YODPgBadj80) - by Quincy Larsen of [freeCodeCamp](https://www.freecodecamp.org/)
-
-#### Due Date
-- Next Due Date: **Monday, January 6 at 9AM**
